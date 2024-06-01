@@ -2,6 +2,7 @@ To-Do List Application
 This is a simple To-Do List application built with React. It allows you to add tasks, move them between different statuses (Pending, In Progress, and Completed), and see when tasks are completed. The Tasks are saved on the local machine 
 
 Features
+
 Add new tasks with a title and optional description.
 Mark tasks as completed and see the completion timestamp.
 
@@ -24,25 +25,15 @@ cd todo-list-app
 Install dependencies:
 Using npm:
 
-sh
+
 Copy code
 npm install
-Or using yarn:
 
-sh
-Copy code
-yarn install
-Running the Application
+
 Start the development server:
 Using npm:
-
-sh
-Copy code
 npm run dev
 
-sh
-Copy code
-yarn start
 Open your browser and go to http://localhost:3000 to see the application.
 
 Project Structure
